@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1
 /***
  Input: arr[] = [3, 5, 9, 10, 11, 12], k = 2
 Output: 2
