@@ -49,9 +49,9 @@ const sprial = (mat) => {
                 break;
         }
         //cycle direction.
-        if(d===3){
-            d=0;
-        } else{
+        if (d === 3) {
+            d = 0;
+        } else {
             d++;
         }
     }
