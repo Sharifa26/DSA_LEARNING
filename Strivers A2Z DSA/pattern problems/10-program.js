@@ -32,6 +32,6 @@ Result:
         for(let j=1;j<=stars;j++){
             process.stdout.write("*");
         }
-        console.log("\n");
+        console.log("");
         
     }

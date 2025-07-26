@@ -24,6 +24,6 @@ for(let i=1;i<=N;i++){
     for(j=1;j<=i;j++){
         process.stdout.write("* ");
     }
-    console.log("\n");
+    console.log("");
     
 }
